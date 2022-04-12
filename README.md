@@ -1,2 +1,0 @@
-# pnds-mtpltlb-mini-proj
-
